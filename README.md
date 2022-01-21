@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjonez96
-- 👀 I’m interested in ... javascript
-- 🌱 I’m currently learning ... javascript
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently learning ... javascript, react, firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
