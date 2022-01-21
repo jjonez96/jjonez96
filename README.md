@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjonez96
+- 👋 Hi, I’m Joona Luukkonen
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning ... javascript, react, firebase
 - 💞️ I’m looking to collaborate on ...
