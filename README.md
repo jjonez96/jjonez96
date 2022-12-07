@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Joona Luukkonen<br> 👀 I quit my full-time job in a machining company where I worked for 3years. Now I'm studying cs degree at university.<br> 🌱 I’m currently learning  React, Node and Typescript<br> 📫 How to reach me ... https://www.linkedin.com/in/joona-luukkonen-7b7287228/
+ 👋 Hi, I’m Joona Luukkonen<br> 👀 I quit my full-time job in a machining company where I worked for 3-Years. Now I'm studying cs degree at university.<br> 🌱 I’m currently learning  React, Node and Typescript<br> 📫 How to reach me ... https://www.linkedin.com/in/joona-luukkonen-7b7287228/
 
 
 # 💻 Tech Stack:
