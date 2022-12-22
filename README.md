@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Joona Luukkonen<br> 👀 I quit my full-time job in a machining company where I worked for 3-Years. Now I'm studying cs degree at university.<br> 🌱 I’m currently learning  React, Node and Typescript<br> 📫 How to reach me ... https://www.linkedin.com/in/joona-luukkonen-7b7287228/
+ 👋 Hi, I’m Joona Luukkonen<br> 👀 I quit my full-time job in a machining company where I worked for 3-Years. Now I'm studying cs degree at university.<br> 🌱 I’m currently learning  React, Node and Typescript<br> 📫 How to reach me https://www.linkedin.com/in/joona-luukkonen-7b7287228/
 
 
 # 💻 Tech Stack:
@@ -11,8 +11,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jjonez96&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonez96&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jjonez96&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jjonez96&icon=1&color=1)](https://visitcount.itsvg.in)
