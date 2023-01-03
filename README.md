@@ -9,10 +9,9 @@
  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jjonez96&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=jjonez96&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonez96&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=jjonez96&theme=react)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jjonez96&theme=react)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjonez96&theme=react&hide_border=true&include_all_commits=true)
 
 
 ---
