@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Joona Luukkonen and i am a coffee addict☕. Nice to meet you!<br>  👀 I quit my full-time job in a machining company where i worked for 3-Years. <br>  &nbsp; &nbsp; &nbsp; Now I'm studying cs degree at university in Vaasa Finland and working on my coding projects. <br> <br>
+ 👋 Hi, I’m Joona Luukkonen and i am a coffee addict☕. Nice to meet you!<br>  👀 I quit my full-time job in a machining company where i worked for 3 years. <br>  &nbsp; &nbsp; &nbsp; Now I'm studying cs degree at university in Vaasa Finland and working on my coding projects. <br> <br>
 💻 I do mostly frontend stuff with React and littlebit of Node.js.
  <br> 📫 How to reach me https://www.linkedin.com/in/joona-luukkonen-7b7287228/
 
